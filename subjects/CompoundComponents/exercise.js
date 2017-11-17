@@ -23,17 +23,28 @@
 //   - Arrow right, arrow down should select the next option
 //   - Arrow left, arrow up should select the previous option
 ////////////////////////////////////////////////////////////////////////////////
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
 
 class RadioGroup extends React.Component {
+  state = {
+    activeIndex: 0
+  }
+
   static propTypes = {
     defaultValue: PropTypes.string
   }
 
   render() {
-    return <div>{this.props.children}</div>
+   const children = React.Children.map(this.props.children, (child, index) => {
+     return React.cloneElement(child, {
+       isSelected: this.state.activeIndex === index,
+       onClick: () => { this.setState({activeIndex: index}) }
+     })
+   })
+   return <div>{children}</div>
   }
 }
 
@@ -44,8 +55,8 @@ class RadioOption extends React.Component {
 
   render() {
     return (
-      <div>
-        <RadioIcon isSelected={false}/> {this.props.children}
+      <div onClick={this.props.onClick} style={{cursor: 'pointer'}}>
+        <RadioIcon onChange={this.props.onClick} isSelected={this.props.isSelected}/> {this.props.children}
       </div>
     )
   }
@@ -53,12 +64,18 @@ class RadioOption extends React.Component {
 
 class RadioIcon extends React.Component {
   static propTypes = {
-    isSelected: PropTypes.bool.isRequired
+    isSelected: PropTypes.bool.isRequired,
   }
 
   render() {
     return (
       <div
+        tabIndex="0" 
+        onKeyUp={(e) => {
+          switch(e.key) {
+            case 'ArrowDown': 
+          }
+        }}
         style={{
           borderColor: '#ccc',
           borderWidth: 3,

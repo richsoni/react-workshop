@@ -16,13 +16,54 @@ class Select extends React.Component {
     defaultValue: PropTypes.any
   }
 
+  state = {
+    showOptions: false,
+    value: 'label',
+  }
+
+  toggleOptions = () => {
+    this.setState({
+      showOptions: !this.state.showOptions
+    })
+  }
+
+  componentDidMount() {
+    if(this.props.defaultValue) { this.setState({value: this.props.defaultValue}) }
+  }
+
+  getValue = () => {
+    if(this.props.value) { return this.props.value }
+    return this.state.value
+  }
+
+  updateValue = (value) => {
+    this.setState({value})
+  }
+
+  close = () => {
+    this.setState({showOptions: false})
+  }
+
   render() {
+    const children = React.Children.map(this.props.children, (child, index) => {
+      return React.cloneElement(child, {
+        onClick: (e) => {
+          if(typeof this.props.onChange === 'function'){
+            this.props.onChange(e)
+          } else {
+            this.updateValue(e)
+          }
+          this.close()
+        }
+      })
+    })
     return (
       <div className="select">
-        <div className="label">label <span className="arrow">▾</span></div>
-        <div className="options">
-          {this.props.children}
-        </div>
+        <span> {this.state.controlled} </span>
+        <div onClick={this.toggleOptions} className="label">{this.getValue()} <span className="arrow">▾</span></div>
+        {this.state.showOptions && <div className="options">
+          {children}
+        </div>}
       </div>
     )
   }
@@ -31,14 +72,15 @@ class Select extends React.Component {
 class Option extends React.Component {
   render() {
     return (
-      <div className="option">{this.props.children}</div>
+      <div onClick={() => this.props.onClick(this.props.value)} className="option">{this.props.children}</div>
     )
   }
 }
 
 class App extends React.Component {
   state = {
-    selectValue: 'dosa'
+    selectValue: 'dosa',
+    override: null
   }
 
   setToMintChutney = () => {
@@ -54,6 +96,7 @@ class App extends React.Component {
         <h2>Controlled</h2>
         <p>
           <button onClick={this.setToMintChutney}>Set to Mint Chutney</button>
+          <button onClick={() => this.setState({override: 'now i am controlled'})}> Override </button>
         </p>
 
         <Select
@@ -67,7 +110,7 @@ class App extends React.Component {
         </Select>
 
         <h2>Uncontrolled</h2>
-        <Select defaultValue="tikka-masala">
+        <Select value={this.state.override} defaultValue="tikka-masala">
           <Option value="tikka-masala">Tikka Masala</Option>
           <Option value="tandoori-chicken">Tandoori Chicken</Option>
           <Option value="dosa">Dosa</Option>

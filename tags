@@ -1,0 +1,973 @@
+<i>	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/500/;"	v	lineno:51	namespace:numRows	type:number
+<i>	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/500000/;"	v	lineno:78	namespace:numRows	type:number
+<i>	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/600/;"	v	lineno:124	namespace:transitionEnterTimeout	type:number
+<i>	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/600/;"	v	lineno:125	namespace:transitionLeaveTimeout	type:number
+ADD_CONTACT	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/actions.js	/ADD_CONTACT/;"	v	lineno:3	type:string
+ADD_CONTACT	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/ADD_CONTACT/;"	v	lineno:3	type:string
+API	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/utils/APIUtils.js	/API/;"	v	lineno:4	type:string
+API	/Users/rsoni/code/react-workshop/subjects/Flux/solution/utils/APIUtils.js	/API/;"	v	lineno:4	type:string
+API	/Users/rsoni/code/react-workshop/subjects/HelloWorld/utils/searchWikipedia.js	/API/;"	v	lineno:3	type:string
+API	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/contactsAPI.js	/API/;"	v	lineno:3	type:string
+About	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/About/;"	f	lineno:25	type:boolean function()
+About	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/About/;"	f	lineno:25	type:boolean function()
+About	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/About/;"	f	lineno:4	type:boolean function()
+Animation	/Users/rsoni/code/react-workshop/scripts/build.js	/Animation/;"	v	lineno:40	namespace:Subjects	type:string
+App	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/App/;"	f	lineno:77	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/App/;"	f	lineno:94	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/HelloWorld/exercise.js	/App/;"	f	lineno:10	type:boolean function()
+App	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/exercise.js	/App/;"	f	lineno:22	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/lecture.js	/App/;"	f	lineno:11	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/App/;"	f	lineno:289	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/App/;"	f	lineno:5	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/App/;"	f	lineno:5	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/App/;"	f	lineno:5	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/App/;"	f	lineno:5	type:boolean function()
+App	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/App/;"	f	lineno:5	type:boolean function()
+App	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/App/;"	f	lineno:6	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/App/;"	f	lineno:6	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/RenderProps/exercise.js	/App/;"	f	lineno:27	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/App/;"	f	lineno:28	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/App/;"	f	lineno:100	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/App/;"	f	lineno:16	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/App.js	/App/;"	f	lineno:4	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/App.js	/App/;"	f	lineno:3	type:void function()
+App	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/App/;"	f	lineno:191	type:void function()
+AppWithMouse	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/exercise.js	/App/;"	f	lineno:22	type:void function()
+AutoScalingText	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/AutoScalingText/;"	f	lineno:6	type:void function()
+CHANGE_EVENT	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/CHANGE_EVENT/;"	v	lineno:6	type:string
+CHANGE_EVENT	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/CHANGE_EVENT/;"	v	lineno:5	type:string
+CONTACTS_WERE_LOADED	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/actions.js	/CONTACTS_WERE_LOADED/;"	v	lineno:5	type:string
+CONTACTS_WERE_LOADED	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/CONTACTS_WERE_LOADED/;"	v	lineno:5	type:string
+CONTACT_WAS_DELETED	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/CONTACT_WAS_DELETED/;"	v	lineno:7	type:string
+Calculator	/Users/rsoni/code/react-workshop/scripts/build.js	/Calculator/;"	v	lineno:46	namespace:Subjects	type:string
+Calculator	/Users/rsoni/code/react-workshop/subjects/Calculator/exercise.js	/Calculator/;"	f	lineno:5	type:void function()
+Chat	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/Chat/;"	f	lineno:45	type:void function()
+Chat	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/Chat/;"	f	lineno:77	type:void function()
+ChatApp	/Users/rsoni/code/react-workshop/scripts/build.js	/ChatApp/;"	v	lineno:47	namespace:Subjects	type:string
+CheckoutForm	/Users/rsoni/code/react-workshop/subjects/Forms/exercise.js	/CheckoutForm/;"	f	lineno:22	type:void function()
+CheckoutForm	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/CheckoutForm/;"	f	lineno:22	type:void function()
+Components	/Users/rsoni/code/react-workshop/scripts/build.js	/Components/;"	v	lineno:29	namespace:Subjects	type:string
+Composition	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/Composition/;"	f	lineno:120	namespace:App.prototype	type:void function(?)
+CompoundComponents	/Users/rsoni/code/react-workshop/scripts/build.js	/CompoundComponents/;"	v	lineno:34	namespace:Subjects	type:string
+ContentToggle	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/ContentToggle/;"	f	lineno:11	type:boolean function()
+ContentToggle	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/ContentToggle/;"	f	lineno:4	type:void function()
+ContentToggle	/Users/rsoni/code/react-workshop/subjects/Testing/components/ContentToggle.js	/ContentToggle/;"	f	lineno:3	type:void function()
+Context	/Users/rsoni/code/react-workshop/scripts/build.js	/Context/;"	v	lineno:35	namespace:Subjects	type:string
+CreateContactForm	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/CreateContactForm/;"	f	lineno:11	type:void function()
+CreateContactForm	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/CreateContactForm/;"	f	lineno:10	type:void function()
+CreateContactForm	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/CreateContactForm/;"	f	lineno:10	type:void function()
+Cursors	/Users/rsoni/code/react-workshop/scripts/build.js	/Cursors/;"	v	lineno:48	namespace:Subjects	type:string
+DATA	/Users/rsoni/code/react-workshop/subjects/Rendering/exercise.js	/DATA/;"	v	lineno:19
+DATA	/Users/rsoni/code/react-workshop/subjects/Rendering/solution.js	/DATA/;"	v	lineno:19
+DELETE_CONTACT	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/DELETE_CONTACT/;"	v	lineno:6	type:string
+Draggable	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/Draggable/;"	f	lineno:4	type:void function()
+DropGrid	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/DropGrid/;"	f	lineno:21	type:void function()
+DropGrid	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/DropGrid/;"	f	lineno:21	type:void function()
+Droppable	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/Droppable/;"	f	lineno:40	type:void function()
+ENTER_KEY	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/app.js	/ENTER_KEY/;"	v	lineno:4	type:number
+ERROR_DELETING_CONTACT	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/ERROR_DELETING_CONTACT/;"	v	lineno:8	type:string
+ESC_KEY	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/app.js	/ESC_KEY/;"	v	lineno:5	type:number
+Form	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/Form/;"	f	lineno:23	type:void function()
+Form	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/Form/;"	f	lineno:23	type:void function()
+Form	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/Form/;"	f	lineno:23	type:void function()
+Forms	/Users/rsoni/code/react-workshop/scripts/build.js	/Forms/;"	v	lineno:32	namespace:Subjects	type:string
+Forms	/Users/rsoni/code/react-workshop/subjects/Forms/lecture.js	/Forms/;"	f	lineno:8	type:void function()
+GeoAddress	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/GeoAddress/;"	f	lineno:65	type:void function()
+GeoPosition	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/GeoPosition/;"	f	lineno:27	type:void function()
+GoogleMapsAPI	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/getAddressFromCoords.js	/GoogleMapsAPI/;"	v	lineno:1	type:string
+Gravatar	/Users/rsoni/code/react-workshop/subjects/Routing/utils/Gravatar.js	/Gravatar/;"	f	lineno:7	type:void function()
+GravatarURL	/Users/rsoni/code/react-workshop/subjects/Routing/utils/Gravatar.js	/GravatarURL/;"	v	lineno:5	type:string
+HelloWorld	/Users/rsoni/code/react-workshop/scripts/build.js	/HelloWorld/;"	v	lineno:27	namespace:Subjects	type:string
+HigherOrderComponents	/Users/rsoni/code/react-workshop/scripts/build.js	/HigherOrderComponents/;"	v	lineno:36	namespace:Subjects	type:string
+Home	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/Home/;"	f	lineno:45	type:void function()
+Home	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/Home/;"	f	lineno:12	type:boolean function()
+Home	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/Home/;"	f	lineno:45	type:void function()
+ImperativeToDeclarative	/Users/rsoni/code/react-workshop/scripts/build.js	/ImperativeToDeclarative/;"	v	lineno:31	namespace:Subjects	type:string
+Inbox	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/Inbox/;"	f	lineno:8	type:boolean function()
+JSONTable	/Users/rsoni/code/react-workshop/scripts/build.js	/JSONTable/;"	v	lineno:43	namespace:Subjects	type:string
+LOAD_CONTACTS	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/actions.js	/LOAD_CONTACTS/;"	v	lineno:4	type:string
+LOAD_CONTACTS	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/LOAD_CONTACTS/;"	v	lineno:4	type:string
+Lines	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/Lines/;"	f	lineno:4	type:void function()
+Link	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/Link/;"	f	lineno:39	type:void function()
+Link	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/Link/;"	f	lineno:62	type:void function()
+LoadingDots	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/LoadingDots/;"	f	lineno:3	type:void function()
+Menu	/Users/rsoni/code/react-workshop/subjects/Rendering/exercise.js	/Menu/;"	f	lineno:31	type:boolean function()
+Menu	/Users/rsoni/code/react-workshop/subjects/Rendering/solution.js	/Menu/;"	f	lineno:31	type:boolean function()
+MigratingToReact	/Users/rsoni/code/react-workshop/scripts/build.js	/MigratingToReact/;"	v	lineno:49	namespace:Subjects	type:string
+MiniRedux	/Users/rsoni/code/react-workshop/scripts/build.js	/MiniRedux/;"	v	lineno:51	namespace:Subjects	type:string
+MiniRouter	/Users/rsoni/code/react-workshop/scripts/build.js	/MiniRouter/;"	v	lineno:52	namespace:Subjects	type:string
+Mocha	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/Mocha/;"	v	lineno:6469
+Modal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/Modal/;"	f	lineno:11	type:void function()
+Modal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/Modal/;"	f	lineno:13	type:void function()
+Modal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/Modal/;"	f	lineno:13	type:void function()
+Option	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/Option/;"	f	lineno:31	type:void function()
+Oscillator	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/Oscillator/;"	f	lineno:3	type:!this function(?)
+Oscillator	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/Oscillator/;"	f	lineno:3	type:!this function(?)
+PropsVsState	/Users/rsoni/code/react-workshop/scripts/build.js	/PropsVsState/;"	v	lineno:30	namespace:Subjects	type:string
+Provider	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/mini-redux/Provider.js	/Provider/;"	f	lineno:3	type:void function()
+Provider	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/mini-redux/Provider.js	/Provider/;"	f	lineno:4	type:void function()
+RadioGroup	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/RadioGroup/;"	f	lineno:30	type:void function()
+RadioGroup	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/RadioGroup/;"	f	lineno:53	type:void function()
+RadioIcon	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/RadioIcon/;"	f	lineno:54	type:void function()
+RadioIcon	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/RadioIcon/;"	f	lineno:30	type:void function()
+RadioOption	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/RadioOption/;"	f	lineno:40	type:void function()
+RadioOption	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/RadioOption/;"	f	lineno:80	type:void function()
+RainbowList	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/RainbowList/;"	f	lineno:20	type:void function()
+RainbowList	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/RainbowList/;"	f	lineno:20	type:void function()
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/ReactDOM/;"	f	lineno:71	namespace:TextInput.prototype	type:void function(?)
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/ReactDOM/;"	f	lineno:169	namespace:TextInput.prototype	type:void function(?)
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/ReactDOM/;"	f	lineno:106	namespace:TextInput.prototype	type:void function(?)
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/ReactDOM/;"	f	lineno:95	namespace:Modal.prototype	type:void function(?)
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/ReactDOM/;"	f	lineno:93	namespace:Modal.prototype	type:void function(?)
+ReactDOM	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/ReactDOM/;"	f	lineno:69	namespace:ContentToggle.prototype	type:void function(?)
+Redux	/Users/rsoni/code/react-workshop/scripts/build.js	/Redux/;"	v	lineno:50	namespace:Subjects	type:string
+RenderOptimizations	/Users/rsoni/code/react-workshop/scripts/build.js	/RenderOptimizations/;"	v	lineno:38	namespace:Subjects	type:string
+RenderProps	/Users/rsoni/code/react-workshop/scripts/build.js	/RenderProps/;"	v	lineno:37	namespace:Subjects	type:string
+Rendering	/Users/rsoni/code/react-workshop/scripts/build.js	/Rendering/;"	v	lineno:28	namespace:Subjects	type:string
+ResetButton	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/ResetButton/;"	f	lineno:87	type:void function()
+Route	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/Route/;"	f	lineno:29	type:void function()
+Route	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/Route/;"	f	lineno:38	type:void function()
+Router	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/Router/;"	f	lineno:19	type:void function()
+Router	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/Router/;"	f	lineno:5	type:void function()
+Routing	/Users/rsoni/code/react-workshop/scripts/build.js	/Routing/;"	v	lineno:41	namespace:Subjects	type:string
+Select	/Users/rsoni/code/react-workshop/scripts/build.js	/Select/;"	v	lineno:44	namespace:Subjects	type:string
+Select	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/Select/;"	f	lineno:12	type:void function()
+Select	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/Select/;"	f	lineno:12	type:void function()
+ServerRendering	/Users/rsoni/code/react-workshop/scripts/build.js	/ServerRendering/;"	v	lineno:42	namespace:Subjects	type:string
+ServerURL	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/api.js	/ServerURL/;"	v	lineno:3	type:string
+ServerURL	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/api.js	/ServerURL/;"	v	lineno:3	type:string
+Slider	/Users/rsoni/code/react-workshop/scripts/build.js	/Slider/;"	v	lineno:45	namespace:Subjects	type:string
+Slider	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/Slider/;"	f	lineno:7	type:void function()
+Slider	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/Slider/;"	f	lineno:7	type:void function()
+SliderNext	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/SliderNext/;"	f	lineno:179	type:void function()
+SliderPlayPause	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/SliderPlayPause/;"	f	lineno:167	type:void function()
+SliderPrevious	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/SliderPrevious/;"	f	lineno:50	type:void function()
+SliderStage	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/SliderStage/;"	f	lineno:28	type:void function()
+SmartScroller	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/SmartScroller/;"	f	lineno:45	type:void function()
+StatefulContentToggle	/Users/rsoni/code/react-workshop/subjects/Testing/components/StatefulContentToggle.js	/StatefulContentToggle/;"	f	lineno:4	type:void function()
+Subjects	/Users/rsoni/code/react-workshop/scripts/build.js	/Subjects/;"	v	lineno:26
+SubmitButton	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/SubmitButton/;"	f	lineno:29	type:void function()
+SubmitButton	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/SubmitButton/;"	f	lineno:75	type:void function()
+SubmitButton	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/SubmitButton/;"	f	lineno:46	type:void function()
+Tab	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/Tab/;"	f	lineno:29	type:void function()
+TabList	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/TabList/;"	f	lineno:16	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/Tabs/;"	f	lineno:37	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/Tabs/;"	f	lineno:37	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/Tabs/;"	f	lineno:6	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/Tabs/;"	f	lineno:24	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/Tabs/;"	f	lineno:24	type:void function()
+Tabs	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/Tabs/;"	f	lineno:29	type:void function()
+Testing	/Users/rsoni/code/react-workshop/scripts/build.js	/Testing/;"	v	lineno:33	namespace:Subjects	type:string
+TextInput	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/TextInput/;"	f	lineno:35	type:void function()
+TextInput	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/TextInput/;"	f	lineno:99	type:void function()
+TextInput	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/TextInput/;"	f	lineno:58	type:void function()
+Theremin	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/Theremin/;"	f	lineno:248	type:void function()
+TodoFilter	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/routers/router.js	/TodoFilter/;"	v	lineno:16	namespace:app	type:string
+ToggleSwitch	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/ToggleSwitch/;"	f	lineno:8	type:void function()
+Tone	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/Tone/;"	f	lineno:5	type:void function()
+Tone	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/Tone/;"	f	lineno:210	type:void function()
+Topics	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/Topics/;"	f	lineno:31	type:boolean function(?)
+Topics	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/Topics/;"	f	lineno:31	type:boolean function(?)
+TweenState	/Users/rsoni/code/react-workshop/scripts/build.js	/TweenState/;"	v	lineno:39	namespace:Subjects	type:string
+USERS	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/USERS/;"	v	lineno:32	type:[USERS.0, USERS.1]
+USERS	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/USERS/;"	v	lineno:32	type:[USERS.0, USERS.1]
+activeIndex	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/activeIndex/;"	v	lineno:62	namespace:state	type:number
+activeIndex	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/activeIndex/;"	v	lineno:30	namespace:state	type:number
+activeTab	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/activeTab/;"	v	lineno:28	namespace:styles
+activeTab	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/activeTab/;"	v	lineno:28	namespace:styles
+activeTab	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/activeTab/;"	v	lineno:12
+activeTab	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/activeTab/;"	v	lineno:12
+activeTab	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/activeTab/;"	v	lineno:14
+activeTab	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/activeTab/;"	v	lineno:20	namespace:styles
+activeTabIndex	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/activeTabIndex/;"	v	lineno:35	namespace:state	type:number
+addChangeListener	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/addChangeListener/;"	f	lineno:20	type:void function(?)
+addChangeListener	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/addChangeListener/;"	f	lineno:21	type:void function(?)
+addContact	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/actions.js	/addContact/;"	f	lineno:7	type:addContact.!ret function(?)
+addContact	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/addContact/;"	f	lineno:10	type:addContact.!ret function(?)
+addLine	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/addLine/;"	f	lineno:13	namespace:Lines.prototype	type:void function(?)
+app	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/collections/todos.js	/app/;"	v	lineno:2
+app	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/models/todo.js	/app/;"	v	lineno:2
+app	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/routers/router.js	/app/;"	v	lineno:2
+app	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/views/app-view.js	/app/;"	v	lineno:2
+app	/Users/rsoni/code/react-workshop/subjects/MigratingToReact/backbone-todomvc/js/views/todo-view.js	/app/;"	v	lineno:2
+assert	/Users/rsoni/code/react-workshop/subjects/assert.js	/assert/;"	f	lineno:1	type:void function(?, ?)
+availableHeight	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/availableHeight/;"	v	lineno:28	namespace:state	type:number
+background	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/background/;"	v	lineno:20	namespace:containerStyle	type:string
+backgroundImage	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/backgroundImage/;"	v	lineno:11	namespace:cat	type:string
+backgroundPosition	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/backgroundPosition/;"	v	lineno:14	namespace:cat	type:string
+backgroundRepeat	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/backgroundRepeat/;"	v	lineno:13	namespace:cat	type:string
+backgroundSize	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/backgroundSize/;"	v	lineno:12	namespace:cat	type:string
+border	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/border/;"	v	lineno:12	namespace:styles.theremin	type:string
+border	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/border/;"	v	lineno:4	namespace:style	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/borderBottom/;"	v	lineno:23	namespace:styles.tab	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/borderBottom/;"	v	lineno:23	namespace:styles.tab	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/borderBottom/;"	v	lineno:7	namespace:tab	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/borderBottom/;"	v	lineno:7	namespace:tab	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/borderBottom/;"	v	lineno:9	namespace:tab	type:string
+borderBottom	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/borderBottom/;"	v	lineno:15	namespace:styles.tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/borderBottomColor/;"	v	lineno:24	namespace:styles.tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/borderBottomColor/;"	v	lineno:30	namespace:styles.activeTab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/borderBottomColor/;"	v	lineno:24	namespace:styles.tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/borderBottomColor/;"	v	lineno:30	namespace:styles.activeTab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/borderBottomColor/;"	v	lineno:14	namespace:activeTab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/borderBottomColor/;"	v	lineno:8	namespace:tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/borderBottomColor/;"	v	lineno:14	namespace:activeTab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/borderBottomColor/;"	v	lineno:8	namespace:tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/borderBottomColor/;"	v	lineno:10	namespace:tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/borderBottomColor/;"	v	lineno:16	namespace:activeTab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/borderBottomColor/;"	v	lineno:16	namespace:styles.tab	type:string
+borderBottomColor	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/borderBottomColor/;"	v	lineno:22	namespace:styles.activeTab	type:string
+bottom	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/bottom/;"	v	lineno:19	namespace:containerStyle	type:number
+cat	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/cat/;"	v	lineno:9
+changeTone	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/changeTone/;"	f	lineno:267	namespace:Theremin.prototype	type:void function(?)
+childContextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/childContextTypes/;"	f	lineno:24	namespace:Form	type:? function(?)
+childContextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/childContextTypes/;"	f	lineno:24	namespace:Form	type:void function(?)
+childContextTypes	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/mini-redux/Provider.js	/childContextTypes/;"	f	lineno:5	namespace:Provider	type:void function(?)
+childContextTypes	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/childContextTypes/;"	f	lineno:7	namespace:Router	type:void function(?)
+childContextTypes	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/childContextTypes/;"	f	lineno:21	namespace:Slider.prototype	type:state function(?)
+class	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/class/;"	f	lineno:85	namespace:Tab.prototype	type:void function(?, ?)
+class	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/class/;"	f	lineno:42	namespace:SliderStage.prototype	type:void function(?, ?)
+class	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/class/;"	f	lineno:155	namespace:Slider.prototype	type:void function(?, ?)
+className	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/className/;"	v	lineno:21	type:string
+className	/Users/rsoni/code/react-workshop/subjects/Calculator/exercise.js	/className/;"	v	lineno:8	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/className/;"	v	lineno:48	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/className/;"	v	lineno:18	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/className/;"	v	lineno:70	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/className/;"	v	lineno:45	type:string
+className	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/className/;"	v	lineno:23	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/className/;"	v	lineno:43	type:string
+className	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/className/;"	v	lineno:54	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/className/;"	v	lineno:56	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/className/;"	v	lineno:34	type:boolean
+className	/Users/rsoni/code/react-workshop/subjects/TweenState/exercise.js	/className/;"	v	lineno:49	type:string
+className	/Users/rsoni/code/react-workshop/subjects/TweenState/solution.js	/className/;"	v	lineno:55	type:string
+close	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/close/;"	f	lineno:39	namespace:Modal.prototype	type:void function()
+closeModal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/closeModal/;"	f	lineno:62	type:void function()
+component	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/component/;"	v	lineno:20	type:boolean
+component	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/component/;"	v	lineno:20	type:boolean
+component	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/component/;"	v	lineno:98	type:boolean
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/componentDidMount/;"	f	lineno:46	namespace:SmartScroller.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/componentDidMount/;"	f	lineno:32	namespace:RainbowList.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/componentDidMount/;"	f	lineno:35	namespace:App.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/componentDidMount/;"	f	lineno:40	namespace:GeoPosition.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/componentDidMount/;"	f	lineno:74	namespace:GeoAddress.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/componentDidMount/;"	f	lineno:17	namespace:LoadingDots.prototype	type:void function()
+componentDidMount	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/componentDidMount/;"	f	lineno:46	namespace:Slider.prototype	type:void function()
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/componentDidUpdate/;"	f	lineno:17	namespace:Tone.prototype	type:void function()
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/componentDidUpdate/;"	f	lineno:51	namespace:SmartScroller.prototype	type:void function()
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/componentDidUpdate/;"	f	lineno:24	namespace:Modal.prototype	type:void function()
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/componentDidUpdate/;"	f	lineno:227	namespace:Tone.prototype	type:void function()
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/componentDidUpdate/;"	f	lineno:24	namespace:Modal.prototype	type:void function(?)
+componentDidUpdate	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/componentDidUpdate/;"	f	lineno:79	namespace:GeoAddress.prototype	type:void function(?)
+componentWillMount	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/componentWillMount/;"	f	lineno:34	namespace:Select.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/componentWillUnmount/;"	f	lineno:25	namespace:Draggable.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/lecture.js	/componentWillUnmount/;"	f	lineno:20	namespace:App.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/RenderProps/exercise.js	/componentWillUnmount/;"	f	lineno:52	namespace:App.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/componentWillUnmount/;"	f	lineno:40	namespace:App.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/componentWillUnmount/;"	f	lineno:56	namespace:GeoPosition.prototype	type:void function()
+componentWillUnmount	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/componentWillUnmount/;"	f	lineno:25	namespace:LoadingDots.prototype	type:void function()
+computeHSLRainbowColor	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/RainbowListDelegate.js	/computeHSLRainbowColor/;"	f	lineno:4	type:string function(?, ?)
+connect	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/connect/;"	f	lineno:47	namespace:Oscillator	type:void function(?)
+connect	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/connect/;"	f	lineno:47	namespace:Oscillator	type:void function(?)
+connect	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/mini-redux/connect.js	/connect/;"	f	lineno:3	type:void function(?) function(?)
+connect	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/mini-redux/connect.js	/connect/;"	f	lineno:4	type:void function() function(?) function(?)
+contactWasDeleted	/Users/rsoni/code/react-workshop/subjects/Flux/solution/actions/ServerActionCreators.js	/contactWasDeleted/;"	f	lineno:11	type:void function(?)
+contacts	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/contacts/;"	v	lineno:10	namespace:state	type:[?]
+contacts	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/contacts/;"	v	lineno:9	namespace:state	type:[?]
+contacts	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/reducers.js	/contacts/;"	f	lineno:6	type:[?] function(?, ?)
+contacts	/Users/rsoni/code/react-workshop/subjects/Redux/solution/reducers.js	/contacts/;"	f	lineno:9	type:[?] function(?, ?)
+contacts	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution.js	/contacts/;"	v	lineno:35	type:boolean
+contactsBeingDeleted	/Users/rsoni/code/react-workshop/subjects/Redux/solution/reducers.js	/contactsBeingDeleted/;"	f	lineno:20	type:? function(?, ?)
+contactsWereLoaded	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/actions/ServerActionCreators.js	/contactsWereLoaded/;"	f	lineno:4	type:void function(?)
+contactsWereLoaded	/Users/rsoni/code/react-workshop/subjects/Flux/solution/actions/ServerActionCreators.js	/contactsWereLoaded/;"	f	lineno:4	type:void function(?)
+contactsWithErrors	/Users/rsoni/code/react-workshop/subjects/Redux/solution/reducers.js	/contactsWithErrors/;"	f	lineno:33	type:? function(?, ?)
+container	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/container/;"	v	lineno:4
+containerStyle	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/containerStyle/;"	v	lineno:14
+contentStyle	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/contentStyle/;"	f	lineno:23	namespace:Modal.prototype	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/contextTypes/;"	f	lineno:104	namespace:TextInput.prototype	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/contextTypes/;"	f	lineno:76	namespace:SubmitButton	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/contextTypes/;"	f	lineno:88	namespace:ResetButton	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/contextTypes/;"	f	lineno:47	namespace:SubmitButton	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/contextTypes/;"	f	lineno:59	namespace:TextInput	type:void function(?) function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/contextTypes/;"	f	lineno:39	namespace:Route	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/contextTypes/;"	f	lineno:63	namespace:Link	type:void function(?) function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/contextTypes/;"	f	lineno:156	namespace:Slider.prototype	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/contextTypes/;"	f	lineno:168	namespace:SliderPlayPause	type:void function(?)
+contextTypes	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/contextTypes/;"	f	lineno:180	namespace:SliderNext	type:void function(?)
+convertHundreds	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/convertHundreds/;"	f	lineno:15	type:string function(number)
+convertMillions	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/convertMillions/;"	f	lineno:29	type:string function(?)
+convertNumberToEnglish	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/convertNumberToEnglish/;"	f	lineno:36	type:string function(?)
+convertTens	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/convertTens/;"	f	lineno:5	type:string function(number)
+convertThousands	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/convertThousands/;"	f	lineno:22	type:string function(number)
+createContact	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/createContact/;"	f	lineno:15	namespace:App.prototype	type:void function(?)
+createContact	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/createContact/;"	f	lineno:21	namespace:App.prototype	type:void function(?)
+createMarkup	/Users/rsoni/code/react-workshop/scripts/build.js	/createMarkup/;"	f	lineno:8	type:void function(string)
+createOscillator	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/createOscillator/;"	f	lineno:54	type:Oscillator function()
+createOscillator	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/createOscillator/;"	f	lineno:54	type:Oscillator function()
+createPage	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/server.js	/createPage/;"	f	lineno:11	type:string function()
+createPage	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/server.js	/createPage/;"	f	lineno:11	type:string function(?, createPage.!1)
+createStore	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/mini-redux/createStore.js	/createStore/;"	f	lineno:1	type:createStore.!ret function(?)
+createStore	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/mini-redux/createStore.js	/createStore/;"	f	lineno:1	type:createStore.!ret function(?)
+currentIndex	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/currentIndex/;"	v	lineno:30	namespace:state	type:number
+cursor	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/cursor/;"	v	lineno:25	namespace:styles.tab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/cursor/;"	v	lineno:25	namespace:styles.tab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/cursor/;"	v	lineno:20	namespace:disabledTab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/cursor/;"	v	lineno:9	namespace:tab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/cursor/;"	v	lineno:20	namespace:disabledTab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/cursor/;"	v	lineno:9	namespace:tab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/cursor/;"	v	lineno:17	namespace:cat	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/cursor/;"	v	lineno:6	namespace:container	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/cursor/;"	v	lineno:13	namespace:styles.theremin	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/cursor/;"	v	lineno:11	namespace:tab	type:string
+cursor	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/cursor/;"	v	lineno:17	namespace:styles.tab	type:string
+data	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/data/;"	v	lineno:60	type:boolean
+data	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/data/;"	v	lineno:65	type:boolean
+data	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/data/;"	v	lineno:22	type:boolean
+data	/Users/rsoni/code/react-workshop/subjects/Testing/exercise.js	/data/;"	v	lineno:30	type:boolean
+data	/Users/rsoni/code/react-workshop/subjects/Testing/solution.js	/data/;"	v	lineno:29	type:boolean
+decrement	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/decrement/;"	f	lineno:10	type:void function()
+decrement	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/decrement/;"	f	lineno:10	type:void function()
+defaultProps	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/defaultProps/;"	f	lineno:15	namespace:Draggable.prototype	type:void function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/defaultProps/;"	f	lineno:100	namespace:TextInput	type:void function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/defaultProps/;"	f	lineno:218	namespace:Tone.prototype	type:void function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/defaultProps/;"	f	lineno:5	namespace:Lines	type:state function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/defaultProps/;"	f	lineno:10	namespace:LoadingDots.prototype	type:state function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/Routing/utils/Gravatar.js	/defaultProps/;"	f	lineno:13	namespace:Gravatar.prototype	type:void function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/defaultProps/;"	f	lineno:15	namespace:Slider.prototype	type:void function(?)
+defaultProps	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/defaultProps/;"	f	lineno:15	namespace:Slider.prototype	type:void function(?)
+defaultValue	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/defaultValue/;"	v	lineno:83	type:boolean
+defaultValue	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/defaultValue/;"	v	lineno:58
+defaultValue	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/defaultValue/;"	v	lineno:70	type:boolean
+defaultValue	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/defaultValue/;"	v	lineno:125	type:boolean
+deleteContact	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/utils/APIUtils.js	/deleteContact/;"	f	lineno:12	type:void function(?)
+deleteContact	/Users/rsoni/code/react-workshop/subjects/Flux/solution/actions/ViewActionCreators.js	/deleteContact/;"	f	lineno:13	type:void function(?)
+deleteContact	/Users/rsoni/code/react-workshop/subjects/Flux/solution/utils/APIUtils.js	/deleteContact/;"	f	lineno:12	type:void function(?)
+deleteContact	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/deleteContact/;"	f	lineno:28	type:void function(?, ?)
+deleteContact	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/deleteContact/;"	f	lineno:25	namespace:App.prototype	type:void function(?)
+deleteContactById	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/contactsAPI.js	/deleteContactById/;"	f	lineno:11	type:void function(?, ?)
+deleteContactById	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/api.js	/deleteContactById/;"	f	lineno:11	type:void function(?, ?)
+deleteContactById	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/api.js	/deleteContactById/;"	f	lineno:11	type:void function(?, ?)
+deleteJSON	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/lib/xhr.js	/deleteJSON/;"	f	lineno:32	type:void function(?, ?)
+deleteJSON	/Users/rsoni/code/react-workshop/subjects/Flux/solution/lib/xhr.js	/deleteJSON/;"	f	lineno:32	type:void function(?, ?)
+deleteJSON	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/xhr.js	/deleteJSON/;"	f	lineno:32	type:void function(?, ?)
+deleteJSON	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/xhr.js	/deleteJSON/;"	f	lineno:32	type:void function(?, ?)
+deleteJSON	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/xhr.js	/deleteJSON/;"	f	lineno:32	type:void function(?, ?)
+deletingContacts	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/deletingContacts/;"	v	lineno:10	namespace:state	type:[?]
+disabled	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/disabled/;"	v	lineno:51
+disabledTab	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/disabledTab/;"	v	lineno:17
+disabledTab	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/disabledTab/;"	v	lineno:17
+dispatch	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/mini-redux/connect.js	/dispatch/;"	v	lineno:28
+dispatchServerAction	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/AppDispatcher.js	/dispatchServerAction/;"	f	lineno:15	type:void function(?)
+dispatchServerAction	/Users/rsoni/code/react-workshop/subjects/Flux/solution/AppDispatcher.js	/dispatchServerAction/;"	f	lineno:15	type:void function(?)
+dispatchViewAction	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/AppDispatcher.js	/dispatchViewAction/;"	f	lineno:7	type:void function(?)
+dispatchViewAction	/Users/rsoni/code/react-workshop/subjects/Flux/solution/AppDispatcher.js	/dispatchViewAction/;"	f	lineno:7	type:void function(?)
+display	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/display/;"	v	lineno:20	namespace:styles.tab	type:string
+display	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/display/;"	v	lineno:20	namespace:styles.tab	type:string
+display	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/display/;"	v	lineno:4	namespace:tab	type:string
+display	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/display/;"	v	lineno:4	namespace:tab	type:string
+display	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/display/;"	v	lineno:15	namespace:styles.theremin	type:string
+display	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/display/;"	v	lineno:6	namespace:tab	type:string
+display	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/display/;"	v	lineno:9	namespace:style	type:string
+display	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/display/;"	v	lineno:12	namespace:styles.tab	type:string
+displayValue	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/displayValue/;"	v	lineno:91	namespace:state	type:string
+doImperativeWork	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/doImperativeWork/;"	f	lineno:21	namespace:Tone.prototype	type:void function()
+doImperativeWork	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/doImperativeWork/;"	f	lineno:28	namespace:Modal.prototype	type:void function()
+doImperativeWork	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/doImperativeWork/;"	f	lineno:231	namespace:Tone.prototype	type:void function()
+doImperativeWork	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/doImperativeWork/;"	f	lineno:29	namespace:Modal.prototype	type:void function()
+email	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/email/;"	v	lineno:70	type:boolean
+email	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/email/;"	v	lineno:73	type:boolean
+errorDeletingContact	/Users/rsoni/code/react-workshop/subjects/Flux/solution/actions/ServerActionCreators.js	/errorDeletingContact/;"	f	lineno:18	type:void function(?, ?)
+errors	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/errors/;"	v	lineno:11	namespace:state
+escapeKey	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/escapeKey/;"	f	lineno:5	type:void function(?)
+escapeValue	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/escapeValue/;"	f	lineno:8	type:void function(?)
+exit	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/exit/;"	f	lineno:6427	namespace:Mocha.process	type:void function(?)
+export	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/export/;"	f	lineno:30	namespace:App.prototype	type:void function(?)
+export	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/export/;"	f	lineno:30	namespace:App.prototype	type:void function(?)
+export	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/export/;"	f	lineno:36	namespace:CreateContactForm.prototype	type:void function(?)
+export	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/export/;"	f	lineno:36	namespace:CreateContactForm.prototype	type:void function(?)
+fakeNetworkLatency	/Users/rsoni/code/react-workshop/subjects/Flux/solution/utils/APIUtils.js	/fakeNetworkLatency/;"	f	lineno:24	type:void function(fn()
+fetch	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/fetch/;"	f	lineno:87	namespace:GeoAddress.prototype	type:void function()
+fetchContacts	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/contactsAPI.js	/fetchContacts/;"	f	lineno:5	type:void function(?)
+fetchContacts	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/api.js	/fetchContacts/;"	f	lineno:5	type:void function(?)
+fetchContacts	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/api.js	/fetchContacts/;"	f	lineno:5	type:void function(?)
+fetchContacts	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/fetchContacts.js	/fetchContacts/;"	f	lineno:3	type:void function(?)
+fetchContacts	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/fetchContacts.js	/fetchContacts/;"	f	lineno:3	type:void function(?)
+fontSize	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/fontSize/;"	v	lineno:11	namespace:styles.theremin	type:number
+frame	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/frame/;"	v	lineno:15	namespace:state	type:number
+frequency	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/frequency/;"	v	lineno:14	namespace:Oscillator	type:number
+frequency	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/frequency/;"	v	lineno:14	namespace:Oscillator	type:number
+generateId	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/generateId/;"	f	lineno:7	type:void function()
+generateId	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/generateId/;"	f	lineno:7	type:void function()
+generateId	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/generateId/;"	f	lineno:7	type:void function()
+getAddressFromCoords	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/getAddressFromCoords.js	/getAddressFromCoords/;"	f	lineno:3	type:void function(?, ?)
+getChildContext	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/getChildContext/;"	f	lineno:44	namespace:Form.prototype	type:Form.childContextTypes.!0 function()
+getChildContext	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/getChildContext/;"	f	lineno:36	namespace:Slider.prototype	type:SliderNext.contextTypes.!0 function()
+getData	/Users/rsoni/code/react-workshop/subjects/JSONTable/exercise.js	/getData/;"	v	lineno:26
+getData	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/getData/;"	v	lineno:97
+getHeaderStyle	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/getHeaderStyle/;"	f	lineno:14	type:getHeaderStyle.!ret function(?)
+getHeight	/Users/rsoni/code/react-workshop/subjects/TweenState/components/HeightFader.js	/getHeight/;"	f	lineno:4	type:!0.scrollHeight function(?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/lib/xhr.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/Flux/solution/lib/xhr.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/JSONTable/utils/getJSON.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/xhr.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/xhr.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getJSON	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/xhr.js	/getJSON/;"	f	lineno:7	type:void function(?, ?)
+getLabel	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/getLabel/;"	f	lineno:40	namespace:Select.prototype	type:void function()
+getState	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/getState/;"	f	lineno:28	type:state function()
+getState	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/getState/;"	f	lineno:29	type:state function()
+getUserByID	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/getUserByID/;"	f	lineno:37	type:USERS.0 function(number)
+getUserByID	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/getUserByID/;"	f	lineno:37	type:USERS.0 function(?)
+handleChange	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/handleChange/;"	f	lineno:117	namespace:TextInput.prototype	type:void function(?) function(?)
+handleClick	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/handleClick/;"	f	lineno:6	namespace:onClick	type:void function()
+handleClick	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/handleClick/;"	f	lineno:6	type:void function()
+handleClick	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/handleClick/;"	f	lineno:41	namespace:Link.prototype	type:void function(?)
+handleClick	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/handleClick/;"	f	lineno:67	type:void function(?)
+handleClick	/Users/rsoni/code/react-workshop/subjects/Testing/components/ContentToggle.js	/handleClick/;"	f	lineno:4	namespace:ContentToggle.prototype	type:void function(?)
+handleCreateContact	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/handleCreateContact/;"	f	lineno:13	type:void function(?)
+handleDrag	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/handleDrag/;"	f	lineno:55	type:void function(?)
+handleDrag	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/handleDrag/;"	f	lineno:55	type:void function(?)
+handleDragOver	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/handleDragOver/;"	f	lineno:46	type:void function(?)
+handleDragStart	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/handleDragStart/;"	f	lineno:39	type:void function(?)
+handleDragStart	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/handleDragStart/;"	f	lineno:39	type:void function(?)
+handleDrop	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/handleDrop/;"	f	lineno:64	type:void function()
+handleDrop	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/handleDrop/;"	f	lineno:64	type:void function()
+handleDrop	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/handleDrop/;"	f	lineno:55	namespace:Droppable.prototype	type:void function(?)
+handleKeyDown	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/handleKeyDown/;"	f	lineno:121	type:void function(?)
+handleKeyDown	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/handleKeyDown/;"	f	lineno:65	type:void function(?)
+handleMouseDown	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/handleMouseDown/;"	f	lineno:30	namespace:Draggable.prototype	type:void function(?) function(?)
+handleMouseMove	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/handleMouseMove/;"	f	lineno:42	type:void function(?)
+handleMouseMove	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/solution.js	/handleMouseMove/;"	f	lineno:22	type:void function(?)
+handleMouseUp	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/handleMouseUp/;"	f	lineno:47	namespace:Draggable.prototype	type:void function(?)
+handleScroll	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/handleScroll/;"	f	lineno:60	namespace:SmartScroller.prototype	type:void function(?)
+handleScroll	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/handleScroll/;"	f	lineno:38	namespace:RainbowList.prototype	type:void function(?)
+handleSelect	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/handleSelect/;"	f	lineno:52	namespace:Select.prototype	type:void function(?)
+handleSubmit	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/handleSubmit/;"	f	lineno:93	namespace:Chat.prototype	type:void function(?)
+handleSubmit	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/handleSubmit/;"	f	lineno:31	type:void function(?)
+handleSubmit	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/handleSubmit/;"	f	lineno:16	type:void function(?)
+handleSubmit	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/handleSubmit/;"	f	lineno:11	namespace:CreateContactForm.prototype	type:void function(?)
+handleSubmit	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/handleSubmit/;"	f	lineno:11	namespace:CreateContactForm.prototype	type:void function(?)
+handleWindowScroll	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/handleWindowScroll/;"	f	lineno:31	type:void function()
+height	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/height/;"	v	lineno:16	namespace:cat	type:number
+height	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/height/;"	v	lineno:5	namespace:container	type:string
+height	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/height/;"	v	lineno:9	namespace:styles.theremin	type:number
+height	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/height/;"	v	lineno:53	type:string
+height	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/height/;"	v	lineno:27	type:string
+height	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/height/;"	v	lineno:22	type:string
+height	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/height/;"	v	lineno:22	type:string
+history	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/history/;"	f	lineno:20	namespace:Router.prototype	type:void function(?)
+href	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/href/;"	v	lineno:56	type:boolean
+id	/Users/rsoni/code/react-workshop/subjects/Calculator/exercise.js	/id/;"	v	lineno:45	type:boolean
+id	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/id/;"	v	lineno:272	type:boolean
+id	/Users/rsoni/code/react-workshop/subjects/TweenState/solution.js	/id/;"	v	lineno:73	type:string
+increment	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/increment/;"	f	lineno:6	namespace:App.prototype	type:void function() function(?)
+increment	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/increment/;"	f	lineno:6	namespace:App.prototype	type:void function() function(?)
+isActive	/Users/rsoni/code/react-workshop/subjects/TweenState/solution.js	/isActive/;"	v	lineno:105	type:boolean
+isDeleting	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/isDeleting/;"	v	lineno:51	namespace:disabled	type:boolean
+isDirectory	/Users/rsoni/code/react-workshop/webpack.config.js	/isDirectory/;"	f	lineno:5	type:void function(?)
+isImageURL	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/isImageURL/;"	f	lineno:17	type:void function(?)
+isOpen	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/isOpen/;"	v	lineno:4	type:boolean
+isPlaying	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/isPlaying/;"	v	lineno:254	namespace:state	type:boolean
+isURL	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/isURL/;"	f	lineno:13	type:void function(?)
+items	/Users/rsoni/code/react-workshop/subjects/Rendering/exercise.js	/items/;"	v	lineno:21	namespace:DATA	type:[?]
+items	/Users/rsoni/code/react-workshop/subjects/Rendering/solution.js	/items/;"	v	lineno:21	namespace:DATA	type:[?]
+key	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/key/;"	v	lineno:56
+key	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/key/;"	v	lineno:20
+key	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/components/ContactList.js	/key/;"	v	lineno:22	type:boolean
+key	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/key/;"	v	lineno:46
+key	/Users/rsoni/code/react-workshop/subjects/JSONTable/solution.js	/key/;"	v	lineno:53
+key	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/key/;"	v	lineno:46
+key	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/key/;"	v	lineno:44
+key	/Users/rsoni/code/react-workshop/subjects/Rendering/solution.js	/key/;"	v	lineno:35	type:boolean
+key	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/key/;"	v	lineno:48	type:boolean
+key	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/key/;"	v	lineno:48	type:boolean
+key	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/key/;"	v	lineno:52
+left	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/left/;"	v	lineno:81	namespace:style.markerStyle	type:number
+left	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/left/;"	v	lineno:16	namespace:containerStyle	type:number
+lines	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/lines/;"	v	lineno:10	namespace:state	type:[?]
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/actions/ViewActionCreators.js	/loadContacts/;"	f	lineno:5	type:void function()
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/utils/APIUtils.js	/loadContacts/;"	f	lineno:6	type:void function()
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Flux/solution/actions/ViewActionCreators.js	/loadContacts/;"	f	lineno:5	type:void function()
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Flux/solution/utils/APIUtils.js	/loadContacts/;"	f	lineno:6	type:void function()
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/actions.js	/loadContacts/;"	f	lineno:14	type:void function(?)
+loadContacts	/Users/rsoni/code/react-workshop/subjects/Redux/solution/actions.js	/loadContacts/;"	f	lineno:17	type:void function(?)
+loaded	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/loaded/;"	v	lineno:11	namespace:state	type:boolean
+loaded	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/loaded/;"	v	lineno:12	namespace:state	type:boolean
+logger	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/logger.js	/logger/;"	f	lineno:2	type:void function(?) function(?) function(?)
+logger	/Users/rsoni/code/react-workshop/subjects/Redux/solution/logger.js	/logger/;"	f	lineno:2	type:void function(?) function(?) function(?)
+login	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/login/;"	f	lineno:40	type:void function(?)
+margin	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/margin/;"	v	lineno:22	namespace:styles.tab	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/margin/;"	v	lineno:22	namespace:styles.tab	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/margin/;"	v	lineno:6	namespace:tab	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/margin/;"	v	lineno:6	namespace:tab	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/margin/;"	v	lineno:14	namespace:styles.theremin	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/margin/;"	v	lineno:8	namespace:tab	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/margin/;"	v	lineno:6	namespace:style	type:number
+margin	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/margin/;"	v	lineno:14	namespace:styles.tab	type:number
+markerStyle	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/markerStyle/;"	v	lineno:89	namespace:style
+max	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/max/;"	v	lineno:82
+maxVolume	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/maxVolume/;"	v	lineno:13	namespace:Oscillator	type:number
+maxVolume	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/maxVolume/;"	v	lineno:13	namespace:Oscillator	type:number
+min	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/min/;"	v	lineno:81	type:string
+mouse	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/solution.js	/mouse/;"	v	lineno:32	type:boolean
+msg	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/msg/;"	v	lineno:2163	type:string
+name	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/name/;"	v	lineno:40
+name	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/name/;"	v	lineno:134
+name	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/name/;"	v	lineno:74
+name	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/name/;"	v	lineno:57	type:string
+name	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/name/;"	v	lineno:28	type:string
+name	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/name/;"	v	lineno:23	type:string
+name	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/name/;"	v	lineno:23	type:string
+name	/Users/rsoni/code/react-workshop/subjects/TweenState/lecture.js	/name/;"	v	lineno:58	type:boolean
+next	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/next/;"	f	lineno:80	type:void function()
+numRows	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/numRows/;"	v	lineno:51
+numRows	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/numRows/;"	v	lineno:78
+on	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/on/;"	f	lineno:6455	namespace:Mocha.process	type:void function(string, fn(err: ?)
+onChange	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/onChange/;"	v	lineno:137
+onChange	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/onChange/;"	v	lineno:59
+onChange	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/onChange/;"	v	lineno:61
+onChange	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/onChange/;"	v	lineno:116
+onClick	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/onClick/;"	v	lineno:21	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/Components/lecture.js	/onClick/;"	v	lineno:19
+onClick	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/onClick/;"	v	lineno:33
+onClick	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/onClick/;"	v	lineno:51	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/onClick/;"	v	lineno:70	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/onClick/;"	v	lineno:18	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/onClick/;"	v	lineno:18	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/onClick/;"	v	lineno:76
+onClick	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/onClick/;"	v	lineno:56	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/TweenState/exercise.js	/onClick/;"	v	lineno:49	type:boolean
+onClick	/Users/rsoni/code/react-workshop/subjects/TweenState/solution.js	/onClick/;"	v	lineno:55	type:boolean
+onCreate	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/onCreate/;"	v	lineno:31	type:boolean
+onCreate	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/onCreate/;"	v	lineno:31	type:boolean
+onCreate	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/onCreate/;"	v	lineno:50	type:boolean
+onDrag	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/onDrag/;"	v	lineno:91
+onDrag	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/onDrag/;"	v	lineno:96
+onDragStart	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/onDragStart/;"	v	lineno:90
+onDragStart	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/onDragStart/;"	v	lineno:95
+onDrop	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/onDrop/;"	v	lineno:92
+onDrop	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/onDrop/;"	v	lineno:97
+onKeyDown	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/onKeyDown/;"	v	lineno:136
+onKeyDown	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/onKeyDown/;"	v	lineno:76
+onKeyPress	/Users/rsoni/code/react-workshop/subjects/TweenState/lecture.js	/onKeyPress/;"	v	lineno:41	type:boolean
+onMouseMove	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/onMouseMove/;"	v	lineno:42
+onMouseMove	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/solution.js	/onMouseMove/;"	v	lineno:31	type:boolean
+onPoint	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/onPoint/;"	v	lineno:73	type:boolean
+onPress	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/onPress/;"	v	lineno:240	type:boolean
+onSubmit	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/onSubmit/;"	v	lineno:51	type:boolean
+onSubmit	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/onSubmit/;"	v	lineno:26
+onSubmit	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/onSubmit/;"	v	lineno:21
+onSubmit	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/onSubmit/;"	v	lineno:21
+onerror	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/onerror/;"	f	lineno:6442	type:boolean function(?, ?, ?)
+ones	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/ones/;"	v	lineno:1	type:[string]
+opacity	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/opacity/;"	v	lineno:19	namespace:disabledTab	type:number
+opacity	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/opacity/;"	v	lineno:19	namespace:disabledTab	type:number
+openModal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/openModal/;"	f	lineno:59	type:void function()
+openModal	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/openModal/;"	f	lineno:56	type:void function()
+padding	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/padding/;"	v	lineno:21	namespace:styles.tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/padding/;"	v	lineno:34	namespace:styles.panel	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/padding/;"	v	lineno:21	namespace:styles.tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/padding/;"	v	lineno:34	namespace:styles.panel	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/padding/;"	v	lineno:24	namespace:tabPanels	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/padding/;"	v	lineno:5	namespace:tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/padding/;"	v	lineno:24	namespace:tabPanels	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/padding/;"	v	lineno:5	namespace:tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/padding/;"	v	lineno:20	namespace:tabPanels	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/padding/;"	v	lineno:7	namespace:tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/padding/;"	v	lineno:5	namespace:style	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/padding/;"	v	lineno:13	namespace:styles.tab	type:number
+padding	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/padding/;"	v	lineno:26	namespace:styles.panel	type:number
+panel	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/panel/;"	v	lineno:33	namespace:styles
+panel	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/panel/;"	v	lineno:33	namespace:styles
+panel	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/panel/;"	v	lineno:25	namespace:styles
+path	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/path/;"	v	lineno:15	type:string
+path	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/path/;"	v	lineno:15	type:string
+path	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/path/;"	v	lineno:98	type:string
+pitch	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/pitch/;"	v	lineno:255	namespace:state	type:number
+pitchBase	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/pitchBase/;"	v	lineno:9	namespace:Oscillator	type:number
+pitchBase	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/pitchBase/;"	v	lineno:9	namespace:Oscillator	type:number
+pitchBend	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/pitchBend/;"	v	lineno:10	namespace:Oscillator	type:number
+pitchBend	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/pitchBend/;"	v	lineno:10	namespace:Oscillator	type:number
+pitchRange	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/pitchRange/;"	v	lineno:11	namespace:Oscillator	type:number
+pitchRange	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/pitchRange/;"	v	lineno:11	namespace:Oscillator	type:number
+placeholder	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/placeholder/;"	v	lineno:91	type:boolean
+placeholder	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/placeholder/;"	v	lineno:41
+placeholder	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/placeholder/;"	v	lineno:135
+placeholder	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/placeholder/;"	v	lineno:75
+placeholder	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/placeholder/;"	v	lineno:28	type:string
+placeholder	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/placeholder/;"	v	lineno:23	type:string
+placeholder	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/placeholder/;"	v	lineno:23	type:string
+play	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/play/;"	f	lineno:19	namespace:Oscillator	type:void function()
+play	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/play/;"	f	lineno:259	namespace:Theremin.prototype	type:void function() function(?)
+play	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/play/;"	f	lineno:19	namespace:Oscillator	type:void function()
+port	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/server.js	/port/;"	v	lineno:9	type:number
+port	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/server.js	/port/;"	v	lineno:9	type:number
+position	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/position/;"	v	lineno:10	namespace:cat	type:string
+position	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/position/;"	v	lineno:15	namespace:containerStyle	type:string
+postJSON	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/lib/xhr.js	/postJSON/;"	f	lineno:21	type:void function(?, ?, ?)
+postJSON	/Users/rsoni/code/react-workshop/subjects/Flux/solution/lib/xhr.js	/postJSON/;"	f	lineno:21	type:void function(?, ?, ?)
+postJSON	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/xhr.js	/postJSON/;"	f	lineno:21	type:void function(?, ?, ?)
+postJSON	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/xhr.js	/postJSON/;"	f	lineno:21	type:void function(?, ?, ?)
+postJSON	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/xhr.js	/postJSON/;"	f	lineno:21	type:void function(?, ?, ?)
+prev	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/prev/;"	f	lineno:69	namespace:Slider.prototype	type:void function() function(?)
+process	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/process/;"	v	lineno:6563	namespace:Mocha
+propTypes	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/propTypes/;"	f	lineno:5	namespace:Draggable	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/propTypes/;"	f	lineno:6	namespace:Tone	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/propTypes/;"	f	lineno:31	namespace:RadioGroup	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/propTypes/;"	f	lineno:41	namespace:RadioOption	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/propTypes/;"	f	lineno:55	namespace:RadioIcon	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/propTypes/;"	f	lineno:31	namespace:RadioIcon	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/propTypes/;"	f	lineno:54	namespace:RadioGroup	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/propTypes/;"	f	lineno:81	namespace:RadioOption	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/exercise.js	/propTypes/;"	f	lineno:23	namespace:App	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/exercise.js	/propTypes/;"	f	lineno:23	namespace:AppWithMouse	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/propTypes/;"	f	lineno:14	namespace:Modal	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/propTypes/;"	f	lineno:211	namespace:Tone	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/propTypes/;"	f	lineno:249	namespace:Theremin	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/propTypes/;"	f	lineno:14	namespace:Modal	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/propTypes/;"	f	lineno:12	namespace:CreateContactForm	type:void function(?) function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/propTypes/;"	f	lineno:25	namespace:Tabs	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/propTypes/;"	f	lineno:25	namespace:Tabs	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/propTypes/;"	v	lineno:32	namespace:CreateContactForm
+propTypes	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/propTypes/;"	v	lineno:32	namespace:CreateContactForm
+propTypes	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/propTypes/;"	f	lineno:21	namespace:RainbowList	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/propTypes/;"	f	lineno:21	namespace:RainbowList	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/propTypes/;"	f	lineno:28	namespace:GeoPosition	type:GeoPosition.propTypes.!ret function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/propTypes/;"	f	lineno:66	namespace:GeoAddress	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/propTypes/;"	f	lineno:5	namespace:LoadingDots	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Routing/utils/Gravatar.js	/propTypes/;"	f	lineno:8	namespace:Gravatar	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/propTypes/;"	f	lineno:13	namespace:Select	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/propTypes/;"	f	lineno:13	namespace:Select	type:state function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/App.js	/propTypes/;"	f	lineno:4	namespace:App	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/propTypes/;"	f	lineno:8	namespace:Slider	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/propTypes/;"	f	lineno:8	namespace:Slider	type:void function(?)
+propTypes	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/propTypes/;"	f	lineno:30	namespace:Tabs	type:state function(?)
+prototype	/Users/rsoni/code/react-workshop/subjects/Animation/components/Draggable.js	/class Draggable extends React\.Component \{/;"	v	lineno:4	namespace:Draggable
+prototype	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/class Tone extends React\.Component \{/;"	v	lineno:5	namespace:Tone
+prototype	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/class DropGrid extends React\.Component \{/;"	v	lineno:21	namespace:DropGrid
+prototype	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/class ToggleSwitch extends React\.Component \{/;"	v	lineno:8	namespace:ToggleSwitch
+prototype	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/class DropGrid extends React\.Component \{/;"	v	lineno:21	namespace:DropGrid
+prototype	/Users/rsoni/code/react-workshop/subjects/Calculator/exercise.js	/class Calculator extends React\.Component \{/;"	v	lineno:5	namespace:Calculator
+prototype	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/class AutoScalingText extends React\.Component \{/;"	v	lineno:6	namespace:AutoScalingText
+prototype	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/class Chat extends React\.Component \{/;"	v	lineno:45	namespace:Chat
+prototype	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/class Chat extends React\.Component \{/;"	v	lineno:77	namespace:Chat
+prototype	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/class SmartScroller extends React\.Component \{/;"	v	lineno:45	namespace:SmartScroller
+prototype	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/class Tabs extends React\.Component \{/;"	v	lineno:37	namespace:Tabs
+prototype	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/class Tabs extends React\.Component \{/;"	v	lineno:37	namespace:Tabs
+prototype	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/class App extends React\.Component \{/;"	v	lineno:77	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/class Tabs extends React\.Component \{/;"	v	lineno:6	namespace:Tabs
+prototype	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/class App extends React\.Component \{/;"	v	lineno:94	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/class RadioGroup extends React\.Component \{/;"	v	lineno:53	namespace:RadioGroup
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/class Form extends React\.Component \{/;"	v	lineno:23	namespace:Form
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/class SubmitButton extends React\.Component \{/;"	v	lineno:29	namespace:SubmitButton
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/class TextInput extends React\.Component \{/;"	v	lineno:35	namespace:TextInput
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/class Tab extends React\.Component \{/;"	v	lineno:29	namespace:Tab
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/class TabList extends React\.Component \{/;"	v	lineno:16	namespace:TabList
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/class Form extends React\.Component \{/;"	v	lineno:23	namespace:Form
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/class TextInput extends React\.Component \{/;"	v	lineno:99	namespace:TextInput
+prototype	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/class TextInput extends React\.Component \{/;"	v	lineno:58	namespace:TextInput
+prototype	/Users/rsoni/code/react-workshop/subjects/Forms/exercise.js	/class CheckoutForm extends React\.Component \{/;"	v	lineno:22	namespace:CheckoutForm
+prototype	/Users/rsoni/code/react-workshop/subjects/Forms/lecture.js	/class Forms extends React\.Component \{/;"	v	lineno:8	namespace:Forms
+prototype	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/class CheckoutForm extends React\.Component \{/;"	v	lineno:22	namespace:CheckoutForm
+prototype	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/lecture.js	/class App extends React\.Component \{/;"	v	lineno:11	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/class Modal extends React\.Component \{/;"	v	lineno:11	namespace:Modal
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/class Modal extends React\.Component \{/;"	v	lineno:13	namespace:Modal
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/class App extends React\.Component \{/;"	v	lineno:289	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/class Theremin extends React\.Component \{/;"	v	lineno:248	namespace:Theremin
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/class Tone extends React\.Component \{/;"	v	lineno:210	namespace:Tone
+prototype	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/class Modal extends React\.Component \{/;"	v	lineno:13	namespace:Modal
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/class App extends React\.Component \{/;"	v	lineno:5	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/mini-redux/Provider.js	/class Provider extends React\.Component \{/;"	v	lineno:3	namespace:Provider
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/class App extends React\.Component \{/;"	v	lineno:5	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/class CreateContactForm extends React\.Component \{/;"	v	lineno:11	namespace:CreateContactForm
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/class App extends React\.Component \{/;"	v	lineno:5	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/class Link extends React\.Component \{/;"	v	lineno:39	namespace:Link
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/class Route extends React\.Component \{/;"	v	lineno:29	namespace:Route
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/class Router extends React\.Component \{/;"	v	lineno:19	namespace:Router
+prototype	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/class Link extends React\.Component \{/;"	v	lineno:62	namespace:Link
+prototype	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/class Tabs extends React\.Component \{/;"	v	lineno:24	namespace:Tabs
+prototype	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/class ContentToggle extends React\.Component \{/;"	v	lineno:4	namespace:ContentToggle
+prototype	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/class Tabs extends React\.Component \{/;"	v	lineno:24	namespace:Tabs
+prototype	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/class App extends React\.Component \{/;"	v	lineno:6	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/class CreateContactForm extends React\.Component \{/;"	v	lineno:10	namespace:CreateContactForm
+prototype	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/class App extends React\.Component \{/;"	v	lineno:6	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/class CreateContactForm extends React\.Component \{/;"	v	lineno:10	namespace:CreateContactForm
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/class Lines extends React\.Component \{/;"	v	lineno:4	namespace:Lines
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/class RainbowList extends React\.Component \{/;"	v	lineno:20	namespace:RainbowList
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/exercise.js	/class App extends React\.Component \{/;"	v	lineno:27	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/class App extends React\.Component \{/;"	v	lineno:28	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/class App extends React\.Component \{/;"	v	lineno:100	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/class GeoAddress extends React\.Component \{/;"	v	lineno:65	namespace:GeoAddress
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/class GeoPosition extends React\.Component \{/;"	v	lineno:27	namespace:GeoPosition
+prototype	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/class LoadingDots extends React\.Component \{/;"	v	lineno:3	namespace:LoadingDots
+prototype	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/class Home extends React\.Component \{/;"	v	lineno:45	namespace:Home
+prototype	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/class App extends React\.Component \{/;"	v	lineno:16	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/class Home extends React\.Component \{/;"	v	lineno:45	namespace:Home
+prototype	/Users/rsoni/code/react-workshop/subjects/Routing/utils/Gravatar.js	/class Gravatar extends React\.Component \{/;"	v	lineno:7	namespace:Gravatar
+prototype	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/class Option extends React\.Component \{/;"	v	lineno:31	namespace:Option
+prototype	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/class Select extends React\.Component \{/;"	v	lineno:12	namespace:Select
+prototype	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/App.js	/class App extends React\.Component \{/;"	v	lineno:4	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/class Slider extends React\.Component \{/;"	v	lineno:7	namespace:Slider
+prototype	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/class SliderPrevious extends React\.Component \{/;"	v	lineno:50	namespace:SliderPrevious
+prototype	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/class SliderStage extends React\.Component \{/;"	v	lineno:28	namespace:SliderStage
+prototype	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/class App extends React\.Component \{/;"	v	lineno:191	namespace:App
+prototype	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/class Slider extends React\.Component \{/;"	v	lineno:7	namespace:Slider
+prototype	/Users/rsoni/code/react-workshop/subjects/Testing/components/ContentToggle.js	/class ContentToggle extends React\.Component \{/;"	v	lineno:3	namespace:ContentToggle
+prototype	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/class Droppable extends React\.Component \{/;"	v	lineno:40	namespace:Droppable
+prototype	/Users/rsoni/code/react-workshop/subjects/Testing/components/StatefulContentToggle.js	/class StatefulContentToggle extends React\.Component \{/;"	v	lineno:4	namespace:StatefulContentToggle
+prototype	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/class Tabs extends React\.Component \{/;"	v	lineno:29	namespace:Tabs
+readFilesFromEvent	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/readFilesFromEvent/;"	f	lineno:12	type:void function(?, ?)
+readOnly	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/readOnly/;"	v	lineno:88
+redo	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/redo/;"	f	lineno:111	type:void function(number)
+ref	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/ref/;"	v	lineno:86	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/ref/;"	v	lineno:89	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/ref/;"	v	lineno:38
+ref	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/ref/;"	v	lineno:91	type:string
+ref	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/utils/withCat.js	/ref/;"	v	lineno:33	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/ref/;"	v	lineno:82	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/ref/;"	v	lineno:38	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/ref/;"	v	lineno:35	type:boolean
+ref	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/ref/;"	v	lineno:83	type:string
+removeChangeListener	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/removeChangeListener/;"	f	lineno:24	type:void function(?)
+removeChangeListener	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/removeChangeListener/;"	f	lineno:25	type:void function(?)
+removeListener	/Users/rsoni/code/react-workshop/subjects/Testing/mocha-browser.js	/removeListener/;"	f	lineno:6439	namespace:Mocha.process	type:void function(string, fn(err: ?)
+render	/Users/rsoni/code/react-workshop/subjects/Animation/components/Tone.js	/render/;"	f	lineno:32	namespace:Tone.prototype	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/render/;"	f	lineno:17	namespace:ToggleSwitch.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Calculator/exercise.js	/render/;"	f	lineno:6	namespace:Calculator.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/render/;"	f	lineno:31	namespace:AutoScalingText.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/render/;"	f	lineno:46	namespace:Chat.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/render/;"	f	lineno:38	namespace:Tabs.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/render/;"	f	lineno:46	namespace:Tabs.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/render/;"	f	lineno:78	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/render/;"	f	lineno:68	namespace:RadioGroup.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/render/;"	f	lineno:24	namespace:Form.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/render/;"	f	lineno:30	namespace:SubmitButton.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/render/;"	f	lineno:36	namespace:TextInput.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/render/;"	f	lineno:17	namespace:TabList.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/render/;"	f	lineno:30	namespace:Tab.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/render/;"	f	lineno:126	namespace:TextInput.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/render/;"	f	lineno:70	namespace:Form.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/render/;"	f	lineno:70	namespace:TextInput.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/render/;"	f	lineno:116	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/Forms/exercise.js	/render/;"	f	lineno:23	namespace:CheckoutForm.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Forms/lecture.js	/render/;"	f	lineno:9	namespace:Forms.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/render/;"	f	lineno:39	namespace:CheckoutForm.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/lecture.js	/render/;"	f	lineno:24	namespace:App.prototype	type:!this function()
+render	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/render/;"	f	lineno:43	namespace:Modal.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise.js	/render/;"	f	lineno:36	namespace:Modal.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/render/;"	f	lineno:243	namespace:Tone.prototype	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/render/;"	f	lineno:290	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/solution.js	/render/;"	f	lineno:33	namespace:Modal.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/components/App.js	/render/;"	f	lineno:14	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/mini-redux/Provider.js	/render/;"	f	lineno:4	namespace:Provider.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/render/;"	f	lineno:19	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/render/;"	f	lineno:24	namespace:CreateContactForm.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/components/App.js	/render/;"	f	lineno:14	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/render/;"	v	lineno:15	type:boolean
+render	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/mini-router.js	/render/;"	f	lineno:30	namespace:Route.prototype	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/render/;"	v	lineno:15	type:boolean
+render	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/render/;"	f	lineno:72	namespace:Link.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/render/;"	f	lineno:16	namespace:ContentToggle.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/render/;"	f	lineno:19	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/render/;"	f	lineno:19	namespace:CreateContactForm.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/render/;"	f	lineno:29	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/render/;"	f	lineno:19	namespace:CreateContactForm.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/render/;"	f	lineno:27	namespace:Lines.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/exercise.js	/render/;"	f	lineno:56	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/render/;"	f	lineno:44	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/render/;"	f	lineno:101	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/render/;"	f	lineno:60	namespace:GeoPosition.prototype	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/render/;"	f	lineno:95	namespace:GeoAddress.prototype	type:void function()
+render	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/render/;"	f	lineno:29	namespace:LoadingDots.prototype	type:number function()
+render	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/render/;"	f	lineno:46	namespace:Home.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Routing/lecture.js	/render/;"	f	lineno:17	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/render/;"	f	lineno:46	namespace:Home.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/render/;"	v	lineno:100
+render	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/render/;"	f	lineno:32	namespace:Option.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/render/;"	f	lineno:64	namespace:Select.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/App.js	/render/;"	f	lineno:18	namespace:App.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/render/;"	f	lineno:29	namespace:SliderStage.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Slider/exercise.js	/render/;"	f	lineno:51	namespace:SliderPrevious.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/render/;"	f	lineno:91	namespace:Slider.prototype	type:boolean function()
+render	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/render/;"	f	lineno:42	namespace:Tabs.prototype	type:boolean function()
+renderRowAtIndex	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/renderRowAtIndex/;"	v	lineno:53
+renderRowAtIndex	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/renderRowAtIndex/;"	v	lineno:80
+renderRowAtIndex	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/RainbowListDelegate.js	/renderRowAtIndex/;"	f	lineno:9	type:boolean function(?)
+renderTabs	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/renderTabs/;"	f	lineno:15	namespace:Tabs.prototype	type:boolean function()
+renderTabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/renderTabs/;"	f	lineno:37	namespace:Tabs.prototype	type:boolean function()
+renderTabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/renderTabs/;"	f	lineno:35	namespace:Tabs.prototype	type:boolean function()
+right	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/right/;"	v	lineno:17	namespace:containerStyle	type:number
+rowHeight	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/exercise.js	/rowHeight/;"	v	lineno:52
+rowHeight	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/rowHeight/;"	v	lineno:79
+rowHeight	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/RainbowListDelegate.js	/rowHeight/;"	v	lineno:7	type:number
+run	/Users/rsoni/code/react-workshop/subjects/Components/tests.js	/run/;"	f	lineno:6	type:void function(?)
+run	/Users/rsoni/code/react-workshop/subjects/PropsVsState/tests.js	/run/;"	f	lineno:5	type:void function(?)
+run	/Users/rsoni/code/react-workshop/subjects/Rendering/tests.js	/run/;"	f	lineno:3	type:void function()
+run	/Users/rsoni/code/react-workshop/subjects/Routing/tests.js	/run/;"	f	lineno:10	type:void function(?)
+saveAuth	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/saveAuth/;"	f	lineno:37	type:void function(?)
+scrollToBottom	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/scrollToBottom/;"	f	lineno:56	namespace:SmartScroller.prototype	type:void function()
+scrollTop	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/scrollTop/;"	v	lineno:29	namespace:state	type:number
+search	/Users/rsoni/code/react-workshop/subjects/HelloWorld/utils/searchWikipedia.js	/search/;"	f	lineno:5	type:void function(?, ?)
+select	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/select/;"	f	lineno:62	namespace:RadioGroup.prototype	type:void function(?)
+selectTab	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/selectTab/;"	f	lineno:33	namespace:Tabs.prototype	type:void function(?)
+selectTabIndex	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/selectTabIndex/;"	f	lineno:38	namespace:Tabs.prototype	type:void function(?)
+sendMessage	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/sendMessage/;"	f	lineno:56	type:void function(?, ?, ?, ?)
+serverTimeOffset	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/serverTimeOffset/;"	v	lineno:32	type:number
+setPitchBend	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/setPitchBend/;"	f	lineno:35	namespace:Oscillator	type:void function(?)
+setPitchBend	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/setPitchBend/;"	f	lineno:35	namespace:Oscillator	type:void function(?)
+setState	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/setState/;"	f	lineno:14	type:void function(setState.!0)
+setState	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/setState/;"	f	lineno:15	type:void function(?|?)
+setToMintChutney	/Users/rsoni/code/react-workshop/subjects/Select/exercise.js	/setToMintChutney/;"	f	lineno:44	type:void function()
+setToMintChutney	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/setToMintChutney/;"	f	lineno:98	type:void function()
+setToken	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/lib/xhr.js	/setToken/;"	f	lineno:3	type:void function(?)
+setToken	/Users/rsoni/code/react-workshop/subjects/Flux/solution/lib/xhr.js	/setToken/;"	f	lineno:3	type:void function(?)
+setToken	/Users/rsoni/code/react-workshop/subjects/JSONTable/utils/getJSON.js	/setToken/;"	f	lineno:3	type:void function(setToken.!0)
+setToken	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/lib/xhr.js	/setToken/;"	f	lineno:3	type:void function(?)
+setToken	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/utils/xhr.js	/setToken/;"	f	lineno:3	type:void function(?)
+setToken	/Users/rsoni/code/react-workshop/subjects/Redux/solution/utils/xhr.js	/setToken/;"	f	lineno:3	type:void function(?)
+setType	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/setType/;"	f	lineno:31	namespace:Oscillator	type:void function(?)
+setType	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/setType/;"	f	lineno:31	namespace:Oscillator	type:void function(?)
+setVolume	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/setVolume/;"	f	lineno:42	namespace:Oscillator	type:void function(?)
+setVolume	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/setVolume/;"	f	lineno:42	namespace:Oscillator	type:void function(?)
+showOptions	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/showOptions/;"	v	lineno:21	namespace:state	type:boolean
+size	/Users/rsoni/code/react-workshop/subjects/Forms/exercise.js	/size/;"	v	lineno:34	type:boolean
+size	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/size/;"	v	lineno:65	type:string
+size	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/size/;"	v	lineno:28	type:boolean
+size	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/size/;"	v	lineno:23	type:boolean
+size	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/size/;"	v	lineno:23	type:boolean
+slideCount	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/slideCount/;"	f	lineno:33	namespace:Slider.prototype	type:void function(?)
+src	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/src/;"	v	lineno:57	type:boolean
+src	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/components/ContactList.js	/src/;"	v	lineno:23
+src	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/src/;"	v	lineno:47
+src	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/src/;"	v	lineno:72	type:boolean
+src	/Users/rsoni/code/react-workshop/subjects/JSONTable/exercise.js	/src/;"	v	lineno:25	type:string
+src	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/src/;"	v	lineno:27	type:boolean
+src	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/src/;"	v	lineno:22	type:boolean
+src	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/src/;"	v	lineno:22	type:boolean
+startAutoPlay	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/startAutoPlay/;"	f	lineno:60	namespace:Slider.prototype	type:void function()
+state	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/state/;"	f	lineno:22	namespace:DropGrid.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/state/;"	f	lineno:9	namespace:ToggleSwitch.prototype	type:void function() function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Animation/solution.js	/state/;"	f	lineno:22	namespace:DropGrid.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/state/;"	f	lineno:7	namespace:AutoScalingText.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/state/;"	v	lineno:89
+state	/Users/rsoni/code/react-workshop/subjects/ChatApp/solution.js	/state/;"	f	lineno:78	namespace:Chat.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/state/;"	f	lineno:38	namespace:Tabs.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/lecture.js	/state/;"	f	lineno:7	namespace:Tabs.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/state/;"	f	lineno:95	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/solution.js	/state/;"	v	lineno:58
+state	/Users/rsoni/code/react-workshop/subjects/Context/lecture.js	/state/;"	v	lineno:61
+state	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/state/;"	f	lineno:36	namespace:Form.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/stores/ContactStore.js	/state/;"	v	lineno:9
+state	/Users/rsoni/code/react-workshop/subjects/Flux/solution/stores/ContactStore.js	/state/;"	v	lineno:8
+state	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/state/;"	f	lineno:23	namespace:CheckoutForm.prototype	type:void function(?) function(?)
+state	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/lecture.js	/state/;"	f	lineno:12	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/state/;"	f	lineno:12	namespace:Modal.prototype	type:containerStyle function(?)
+state	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/state/;"	v	lineno:253
+state	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/state/;"	f	lineno:6	namespace:App.prototype	type:void function(?) function(?)
+state	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/mini-router.js	/state/;"	v	lineno:21
+state	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/state/;"	v	lineno:29
+state	/Users/rsoni/code/react-workshop/subjects/PropsVsState/lecture.js	/state/;"	f	lineno:5	namespace:ContentToggle.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/state/;"	f	lineno:7	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/state/;"	f	lineno:7	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/lecture.js	/state/;"	v	lineno:9
+state	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/solution.js	/state/;"	v	lineno:27
+state	/Users/rsoni/code/react-workshop/subjects/RenderProps/exercise.js	/state/;"	f	lineno:28	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/state/;"	f	lineno:29	namespace:App.prototype	type:void function() function(?)
+state	/Users/rsoni/code/react-workshop/subjects/RenderProps/solution.js	/state/;"	v	lineno:32
+state	/Users/rsoni/code/react-workshop/subjects/RenderProps/utils/LoadingDots.js	/state/;"	v	lineno:15
+state	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/state/;"	v	lineno:19
+state	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/App.js	/state/;"	f	lineno:7	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/state/;"	f	lineno:192	namespace:App.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/state/;"	v	lineno:29
+state	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/state/;"	f	lineno:41	namespace:Droppable.prototype	type:void function(?) function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Testing/components/StatefulContentToggle.js	/state/;"	f	lineno:5	namespace:StatefulContentToggle.prototype	type:void function(?)
+state	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/state/;"	v	lineno:34
+stop	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/stop/;"	f	lineno:24	namespace:Oscillator	type:void function()
+stop	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/stop/;"	f	lineno:263	type:void function()
+stop	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/stop/;"	f	lineno:24	namespace:Oscillator	type:void function()
+stopAutoPlay	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/stopAutoPlay/;"	f	lineno:64	namespace:Slider.prototype	type:void function()
+store	/Users/rsoni/code/react-workshop/subjects/MiniRedux/exercise/index.js	/store/;"	v	lineno:25	type:boolean
+store	/Users/rsoni/code/react-workshop/subjects/MiniRedux/solution/index.js	/store/;"	v	lineno:25	type:boolean
+structure	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/structure/;"	v	lineno:6	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/style/;"	v	lineno:89
+style	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/style/;"	v	lineno:22	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/style/;"	v	lineno:41	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/style/;"	v	lineno:70	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/style/;"	v	lineno:46	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/style/;"	v	lineno:48	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/App.js	/style/;"	v	lineno:24	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/style/;"	v	lineno:66	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/style/;"	v	lineno:64	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/App.js	/style/;"	v	lineno:25	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/App.js	/style/;"	v	lineno:35	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/RenderProps/lecture.js	/style/;"	v	lineno:48	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/style/;"	v	lineno:3
+style	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/style/;"	v	lineno:66	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/TweenState/exercise.js	/style/;"	v	lineno:50	type:boolean
+style	/Users/rsoni/code/react-workshop/subjects/TweenState/solution.js	/style/;"	v	lineno:56	type:boolean
+styles	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/styles/;"	v	lineno:17
+styles	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/styles/;"	v	lineno:17
+styles	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/styles/;"	v	lineno:6
+styles	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/styles/;"	v	lineno:9
+subscribeToMessages	/Users/rsoni/code/react-workshop/subjects/ChatApp/utils/ChatUtils.js	/subscribeToMessages/;"	f	lineno:66	type:void function() function(?)
+tab	/Users/rsoni/code/react-workshop/subjects/Components/exercise.js	/tab/;"	v	lineno:19	namespace:styles
+tab	/Users/rsoni/code/react-workshop/subjects/Components/solution.js	/tab/;"	v	lineno:19	namespace:styles
+tab	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/tab/;"	v	lineno:3
+tab	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/tab/;"	v	lineno:3
+tab	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/tab/;"	v	lineno:5
+tab	/Users/rsoni/code/react-workshop/subjects/Testing/components/Tabs.js	/tab/;"	v	lineno:11	namespace:styles
+tabPanels	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/styles.js	/tabPanels/;"	v	lineno:23
+tabPanels	/Users/rsoni/code/react-workshop/subjects/Context/styles.js	/tabPanels/;"	v	lineno:23
+tabPanels	/Users/rsoni/code/react-workshop/subjects/PropsVsState/styles.js	/tabPanels/;"	v	lineno:19
+tabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/exercise.js	/tabs/;"	v	lineno:89	type:boolean
+tabs	/Users/rsoni/code/react-workshop/subjects/PropsVsState/solution.js	/tabs/;"	v	lineno:96	type:boolean
+teens	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/teens/;"	v	lineno:3	type:[string]
+tens	/Users/rsoni/code/react-workshop/subjects/RenderOptimizations/utils/convertNumberToEnglish.js	/tens/;"	v	lineno:2	type:[string]
+textAlign	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/textAlign/;"	v	lineno:8	namespace:style	type:string
+theremin	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/theremin/;"	v	lineno:8	namespace:styles
+title	/Users/rsoni/code/react-workshop/subjects/Rendering/exercise.js	/title/;"	v	lineno:20	namespace:DATA	type:string
+title	/Users/rsoni/code/react-workshop/subjects/Rendering/solution.js	/title/;"	v	lineno:20	namespace:DATA	type:string
+to	/Users/rsoni/code/react-workshop/subjects/MiniRouter/exercise/index.js	/to/;"	v	lineno:8	type:boolean
+to	/Users/rsoni/code/react-workshop/subjects/MiniRouter/solution/index.js	/to/;"	v	lineno:8	type:boolean
+to	/Users/rsoni/code/react-workshop/subjects/Routing/exercise.js	/to/;"	v	lineno:81	type:boolean
+to	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/to/;"	v	lineno:101	namespace:render	type:boolean
+to	/Users/rsoni/code/react-workshop/subjects/Routing/solution.js	/to/;"	v	lineno:49	type:boolean
+toArray	/Users/rsoni/code/react-workshop/subjects/Routing/tests.js	/toArray/;"	f	lineno:6	type:void function(?)
+toggle	/Users/rsoni/code/react-workshop/subjects/Animation/lecture.js	/toggle/;"	f	lineno:13	type:void function()
+toggleAutoPlay	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/toggleAutoPlay/;"	f	lineno:51	namespace:Slider.prototype	type:void function()
+toggleOptions	/Users/rsoni/code/react-workshop/subjects/Select/solution.js	/toggleOptions/;"	f	lineno:24	namespace:Select.prototype	type:void function(?)
+top	/Users/rsoni/code/react-workshop/subjects/Animation/exercise.js	/top/;"	v	lineno:82	namespace:style.markerStyle	type:number
+top	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/exercise-no-bootstrap.js	/top/;"	v	lineno:18	namespace:containerStyle	type:number
+transitionEnterTimeout	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/transitionEnterTimeout/;"	v	lineno:124
+transitionLeaveTimeout	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/transitionLeaveTimeout/;"	v	lineno:125
+transitionName	/Users/rsoni/code/react-workshop/subjects/Slider/solution.js	/transitionName/;"	v	lineno:123	type:string
+transparentGif	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/transparentGif/;"	v	lineno:5	type:string
+transparentGif	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/transparentGif/;"	v	lineno:5	type:string
+transparentGif	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/transparentGif/;"	v	lineno:5	type:string
+type	/Users/rsoni/code/react-workshop/subjects/ChatApp/exercise.js	/type/;"	v	lineno:91	type:string
+type	/Users/rsoni/code/react-workshop/subjects/Context/exercise.js	/type/;"	v	lineno:39	type:string
+type	/Users/rsoni/code/react-workshop/subjects/Context/solution-extra.js	/type/;"	v	lineno:133	type:string
+type	/Users/rsoni/code/react-workshop/subjects/Context/solution.js	/type/;"	v	lineno:73	type:string
+type	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/type/;"	v	lineno:79	type:string
+type	/Users/rsoni/code/react-workshop/subjects/Forms/lecture.js	/type/;"	v	lineno:14	type:boolean
+type	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/type/;"	v	lineno:56	type:string
+type	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/type/;"	v	lineno:295	type:boolean
+value	/Users/rsoni/code/react-workshop/subjects/CompoundComponents/exercise.js	/value/;"	v	lineno:84	type:boolean
+value	/Users/rsoni/code/react-workshop/subjects/Cursors/lecture.js	/value/;"	v	lineno:83
+value	/Users/rsoni/code/react-workshop/subjects/Forms/solution.js	/value/;"	v	lineno:87
+volume	/Users/rsoni/code/react-workshop/subjects/Animation/utils/createOscillator.js	/volume/;"	v	lineno:12	namespace:Oscillator	type:number
+volume	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/volume/;"	v	lineno:256	namespace:state	type:number
+volume	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/utils/createOscillator.js	/volume/;"	v	lineno:12	namespace:Oscillator	type:number
+waitingForOperand	/Users/rsoni/code/react-workshop/subjects/Calculator/solution.js	/waitingForOperand/;"	v	lineno:93	namespace:state	type:boolean
+webpackServer	/Users/rsoni/code/react-workshop/subjects/ServerRendering/exercise/server.js	/webpackServer/;"	v	lineno:8	type:string
+webpackServer	/Users/rsoni/code/react-workshop/subjects/ServerRendering/solution/server.js	/webpackServer/;"	v	lineno:8	type:string
+width	/Users/rsoni/code/react-workshop/subjects/Flux/exercise/components/ContactList.js	/width/;"	v	lineno:23	type:boolean
+width	/Users/rsoni/code/react-workshop/subjects/Flux/solution/components/ContactList.js	/width/;"	v	lineno:47	type:boolean
+width	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/styles.js	/width/;"	v	lineno:15	namespace:cat	type:number
+width	/Users/rsoni/code/react-workshop/subjects/ImperativeToDeclarative/lecture.js	/width/;"	v	lineno:10	namespace:styles.theremin	type:number
+width	/Users/rsoni/code/react-workshop/subjects/MiniRedux/lecture/components/CreateContactForm.js	/width/;"	v	lineno:27	type:string
+width	/Users/rsoni/code/react-workshop/subjects/Redux/exercise/components/CreateContactForm.js	/width/;"	v	lineno:22	type:string
+width	/Users/rsoni/code/react-workshop/subjects/Redux/solution/components/CreateContactForm.js	/width/;"	v	lineno:22	type:string
+width	/Users/rsoni/code/react-workshop/subjects/Testing/components/Droppable.js	/width/;"	v	lineno:7	namespace:style	type:number
+withCat	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/utils/withCat.js	/withCat/;"	f	lineno:5	type:void function() function(?)
+withMouse	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/exercise.js	/withMouse/;"	f	lineno:18	type:void function() function(fn()
+withMouse	/Users/rsoni/code/react-workshop/subjects/HigherOrderComponents/solution.js	/withMouse/;"	f	lineno:18	type:void function() function(?)

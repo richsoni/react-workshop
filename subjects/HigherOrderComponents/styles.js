@@ -1,5 +1,6 @@
 const mouseFile = require('./images/mouse.png')
 const catFile = require('./images/cat.jpg')
+const catmouse = require('./images/catmouse.jpg')
 
 export const container = {
   height: '100%',

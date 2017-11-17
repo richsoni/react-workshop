@@ -16,7 +16,29 @@ import PropTypes from 'prop-types'
 import * as styles from './styles'
 
 const withMouse = (Component) => {
-  return Component
+  return class extends React.Component {
+    state = {
+      x: 0,
+      y: 0,
+    }
+
+    componentDidMount() {
+      this.listener = ReactDOM.findDOMNode(this.ref).addEventListener('mousemove', (e) => {
+        this.setState((state) => { return {
+          x:  e.clientX,
+          y: e.clientY,
+        }})
+      })
+    }
+
+    componentWillUnmount(){
+      this.ref.removeEventListener(this.listener)
+    }
+
+    render() {
+      return <Component ref={(ref) => this.ref = ref} mouse={this.state} />
+    }
+  }
 }
 
 class App extends React.Component {
@@ -33,7 +55,9 @@ class App extends React.Component {
     return (
       <div style={styles.container}>
         {mouse ? (
-          <h1>The mouse position is ({mouse.x}, {mouse.y})</h1>
+          <div>
+            <h1>The mouse position is ({mouse.x}, {mouse.y})</h1>
+          </div>
         ) : (
           <h1>We don't know the mouse position yet :(</h1>
         )}
